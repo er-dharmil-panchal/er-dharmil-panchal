@@ -1,7 +1,7 @@
 <!-- Dynamic Futuristic GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=BA55D3&center=true&vCenter=true&width=700&lines=👋+Hello,+I'm+Dharmil+Panchal;Welcome+to+my+GitHub;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=BA55D3&center=true&vCenter=true&width=700&lines=  👋+Hello,+I'm+Dharmil+Panchal;  Welcome+to+my+GitHub;" alt="Typing Animation"/>
 </h1>
 
 </h1>
