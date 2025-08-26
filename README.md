@@ -1,14 +1,87 @@
-- 👋 Hi, I’m @Dharmil1302
-- Computer Engineering Student | 💻 Java & DSA Enthusiast  
-- 📍 Ahmedabad, India | 📅 Class of 2028  
-- 🚀 Learning to build real-world projects and crack top tech interviews
+<!-- Dynamic Futuristic GitHub Profile README -->
 
-- ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharmil-panchal-999501332/)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=BA55D3&center=true&vCenter=true&width=700&lines=👋+Hello,+I'm+Dharmil+Panchal;Welcome+to+my+GitHub;" alt="Typing Animation"/>
+</h1>
 
-> “Consistency and curiosity turn beginners into engineers.”
+</h1>
 
-<!---
-Dharmil1302/Dharmil1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### **🚀 About Me**
+- 🔭 Exploring **Python, Java, and Full-Stack Development**
+- 🧠 Constant learner: **AI, APIs, and Real-world Projects**
+- 🛠 Crafting **projects that solve real problems**
+- 🤝 Open to **collaboration and mentorship opportunities**
+
+---
+
+### **🌐 Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharmil-panchal-999501332/" target="_blank">
+    <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=00F0FF" width="50" title="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Dharmil_13" target="_blank">
+    <img src="https://img.icons8.com/?size=80&id=60014&format=png&color=00F0FF" width="50" title="Twitter / X"/>
+  </a>
+ <a href="mailto:dharmilpanchal2031@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Email"/>
+</a>
+  </a>
+  <a href="https://github.com/er-dharmil-panchal" target="_blank">
+    <img src="https://img.icons8.com/?size=80&id=12599&format=png&color=00F0FF" width="50" title="GitHub"/>
+  </a>
+</p>
+
+---
+
+### **🛠 Tech & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgres,html,css" height="40" />
+</p>
+
+---
+
+### **📊 Dynamic Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=er-dharmil-panchal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-dharmil-panchal&theme=tokyonight&hide_border=true&border_radius=20" height="165"/>
+</p>
+
+---
+
+### **🌐 Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-dharmil-panchal&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="150"/>
+</p>
+
+
+---
+
+### **📈 Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-dharmil-panchal&theme=react-dark&bg_color=0D1117&hide_border=true&line=8A2BE2&point=DA70D6" />
+</p>
+
+
+---
+
+### **📡 Live Visitor Count**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=er-dharmil-panchal&style=for-the-badge&color=00F0FF&label=PROFILE+VISITS"/>
+</p>
+
+---
+
+### **💡 Fun Fact**
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+### **🔥 GitHub Achievements & Stats**
+<p align="center">
+  <img src="https://img.shields.io/github/followers/er-dharmil-panchal?label=Followers&logo=github&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/er-dharmil-panchal?label=Stars&logo=github&style=for-the-badge&color=8A2BE2" />
+</p>
+
+
