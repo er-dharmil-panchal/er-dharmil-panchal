@@ -74,11 +74,6 @@
 
 ---
 
-### **💡 Fun Fact**
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
 ### **🔥 GitHub Achievements & Stats**
 <p align="center">
   <img src="https://img.shields.io/github/followers/er-dharmil-panchal?label=Followers&logo=github&style=for-the-badge&color=8A2BE2" />
