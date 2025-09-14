@@ -37,7 +37,7 @@
 
 ### **🛠 Tech & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgres,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgres,html,css,git" height="40" />
 </p>
 
 ---
