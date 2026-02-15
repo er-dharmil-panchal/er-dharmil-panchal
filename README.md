@@ -9,11 +9,16 @@
 ---
 
 ### **🚀 About Me**
-- 🔭 Exploring **Python, Java, and Full-Stack Development**
+- 🔭 Exploring **DSA, MERN, and ML**
 - 🧠 Constant learner: **AI, APIs, and Real-world Projects**
 - 🛠 Crafting **projects that solve real problems**
 - 🤝 Open to **collaboration and mentorship opportunities**
 
+*Technologies used in multiple projects:*
+- **Programming Languages:** Java, Python
+- **Frontend:** JavaFX, HTML, CSS, JavaScript, Bootstrap
+- **Backend/Framework:** Flask
+- **Databases:** MySQL, PostgreSQL
 ---
 
 ### **🌐 Connect With Me**
