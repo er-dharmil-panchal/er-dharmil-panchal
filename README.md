@@ -16,7 +16,7 @@
 
 *Technologies used in multiple projects:*
 - **Programming Languages:** Java, Python
-- **Frontend:** JavaFX, HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** JavaFX, HTML, CSS, JavaScript, Bootstrap, TailWindCSS
 - **Backend/Framework:** Flask
 - **Databases:** MySQL, PostgreSQL
 ---
